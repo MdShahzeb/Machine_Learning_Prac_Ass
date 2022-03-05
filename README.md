@@ -1,8 +1,10 @@
 # Machine_Learning_Practical_Assignment
 **Assignment1**
 
+
 **Build the linear regression model using scikit learn in boston data to predict 'Price' based on other dependent variable.
 **
+
 Here is the code to load the data:
 
 import numpy as np
